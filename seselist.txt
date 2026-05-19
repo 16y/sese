@@ -1118,3 +1118,5 @@ DOMAIN-SUFFIX,tubesex.me
 DOMAIN-SUFFIX,matureporner.com
 DOMAIN-SUFFIX,fabhairypussy.com
 DOMAIN-SUFFIX,moltbook.com
+DOMAIN-SUFFIX,www.moltbook.com
+DOMAIN-SUFFIX,*.moltbook.com
